@@ -1,0 +1,13 @@
+.custom-success-checkbox:checked {
+    background-color: #28a745; /* Bootstrap success green color */
+    border-color: #28a745;
+  }
+  .form-control{
+    border-color: #4cdc5d!important;
+  }
+.form-control:focus{
+    border-color: #4cdc5d!important;
+    outline: none!important;
+    box-shadow: none !important;
+    
+}
